@@ -15,3 +15,5 @@ ref1[5] = 5555
 print(ref1, ref2)
 # Prints [999,1,2,3,4,5555], [999,1,2,3,4,5555]
 # References are kinda connected
+
+# You can forget about all this, This just for learning
